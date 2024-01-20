@@ -27,7 +27,7 @@ const App = () => {
 
   return (
     <div className="container mt-5">
-      <h1 className="mb-4">Search Any Book</h1>
+      <h1 className="mb-4">Search Book</h1>
       <div className="mb-3">
         <input
           type="text"
